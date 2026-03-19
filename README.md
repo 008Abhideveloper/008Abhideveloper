@@ -3,11 +3,14 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=008abhideveloper&label=Profile%20views&color=0e75b6&style=flat" alt="008abhideveloper" /> </p>
 
-- 💬 About me **👨‍💻 Web Developer passionate about building modern websites 🌐 Skilled in HTML, CSS, JavaScript 🛠️ Exploring new technologies and tools 📚 Always learning and growing in tech 💡 Turning ideas into real-world projects**
+- <h3>💬 About me:</h3>  **👨‍💻 Web Developer passionate about building modern websites.
+-  🌐 Skilled in HTML, CSS, JavaScript 🛠️ Exploring new technologies and tools.
+-  📚 Always learning and growing in tech.
+-   💡 Turning ideas into real-world projects**
 
 - ⚡ Fun fact **ready for code**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: abhishekchauhan6091@gmail.com</h3>
 <p align="left">
 </p>
 
